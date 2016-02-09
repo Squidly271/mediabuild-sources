@@ -1,0 +1,23 @@
+[
+  {
+    "imageURL":  "https://github/pathtoimage 1",
+    "imageMD5":  "01234567890",
+    "imageType":  "OpenElec",
+    "imageVersion":  "6.1.7",
+    "imageDescription":  "this is a sample description"
+  },
+  {
+    "imageURL":  "https://github/pathtoimage 2",
+    "imageMD5":  "0987654321",
+    "imageType":  "TBS",
+    "imageVersion":  "6.1.7",
+    "imageDescription":  "tell sparkly where to go"
+  },
+  {
+    "imageURL":  "https://github/pathto stock image 1",
+    "imageMD5":  "3209852045",
+    "imageType":  "unRaid",
+    "imageVersion":  "6.1.7",
+    "imageDescription":  "This version reverts back to a stock image"
+  }
+]
